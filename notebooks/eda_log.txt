@@ -1,0 +1,29 @@
+INFO:root:Checked for missing values.
+INFO:root:Checked for missing values.
+INFO:root:Checked for missing values.
+INFO:root:Checked for missing values.
+INFO:root:Checked for missing values.
+INFO:root:Checked for missing values.
+INFO:root:Checked for missing values.
+INFO:root:Cleaned data by handling missing values and removing outliers.
+INFO:root:Checked for missing values.
+INFO:root:Cleaned data by handling missing values and removing outliers.
+INFO:root:Checked for missing values.
+INFO:root:Checked for missing values.
+INFO:root:Checked for missing values.
+INFO:root:Checked for missing values.
+INFO:root:Cleaned data by handling missing values and removing outliers.
+INFO:root:Checked for missing values.
+INFO:root:Cleaned data by handling missing values and removing outliers.
+INFO:root:Checked for missing values.
+INFO:root:Cleaned data by handling missing values and removing outliers.
+INFO:root:Checked for missing values.
+INFO:root:Cleaned data by handling missing values and removing outliers.
+INFO:root:Checked for missing values.
+INFO:root:Cleaned data by handling missing values and removing outliers.
+INFO:root:Checked for missing values.
+INFO:root:Cleaned data by handling missing values and removing outliers.
+INFO:root:Checked for missing values.
+INFO:root:Cleaned data by handling missing values and removing outliers.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.

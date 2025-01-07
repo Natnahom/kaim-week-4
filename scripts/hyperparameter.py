@@ -23,10 +23,10 @@ def hyperparameter_tuning(processed_data, target_column='Sales', test_size=0.2, 
 
     # Set up the parameter grid for hyperparameter tuning
     param_grid = {
-        'regressor__n_estimators': [50, 100, 200],
-        'regressor__max_depth': [None, 10, 20, 30],
-        'regressor__min_samples_split': [2, 5, 10],
-        'regressor__min_samples_leaf': [1, 2, 4],
+        'regressor__n_estimators': [50],
+        'regressor__max_depth': [None, 10],
+        'regressor__min_samples_split': [2],
+        'regressor__min_samples_leaf': [1],
     }
 
     # Perform Grid Search
